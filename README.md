@@ -1,6 +1,7 @@
 # EUDA: An Efficient Unsupervised Domain Adaptation via Self-Supervised Vision Transformer
 
 [![arXiv](https://img.shields.io/badge/arXiv-2407.21311-B31B1B.svg)](https://arxiv.org/abs/2407.21311)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/euda-an-efficient-unsupervised-domain/unsupervised-domain-adaptation-on-office-31)](https://paperswithcode.com/sota/unsupervised-domain-adaptation-on-office-31?p=euda-an-efficient-unsupervised-domain)
 
 ## Introduction
 
